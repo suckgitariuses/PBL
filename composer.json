@@ -1,0 +1,15 @@
+{
+    "name": "dulaz/pbl",
+    "autoload": {
+        "psr-4": {
+            "Dulaz\\Pbl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ABDUL AZIZ",
+            "email": "107160974+dulaziz15@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
