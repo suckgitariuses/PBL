@@ -11,5 +11,7 @@
             "email": "107160974+dulaziz15@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpoffice/phpword": "^1.3"
+    }
 }
